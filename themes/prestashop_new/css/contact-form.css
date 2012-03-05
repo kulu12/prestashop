@@ -1,0 +1,49 @@
+
+	#contact-form  fieldset {
+		padding:0 0 15px 0;
+		border:1px solid #ccc;
+		background:#f8f8f8
+	}
+		#contact-form  h3 {
+			margin:0 0 15px 0;
+			padding:8px;
+			font-size:14px;
+			color:#fff;
+			text-transform:uppercase;
+			background:url(../img/bg_form_h3.png) repeat-x 0 0 #989898
+		}
+		#contact-form #center_column p {margin:0; padding:0 0 10px 0;}
+		
+		#contact-form p.text label,
+		#contact-form p.select label,
+		#contact-form p.select span,
+		#contact-form p.textarea label {
+			display:inline-block;
+			padding:6px 15px;
+			width:150px;/* 180 */
+			font-size:12px;
+			text-align:right
+		}
+		#contact-form p.text input,
+		#contact-form p.select input {
+			padding:0 5px;
+			height:22px;
+			width:260px;/* 270 */
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666
+		}
+		#contact-form p.select select {
+			margin-right:10px;
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666
+		}
+		#contact-form p.textarea textarea {
+			height:80px;
+			width:270px;
+			border:1px solid #ccc;
+			font-size: 12px;
+			color:#666
+		}
+		#contact-form p.submit input {margin-left:185px;}
